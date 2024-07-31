@@ -1,0 +1,44 @@
+Wed Jul 17 12:13:04 2024 - model_carbon0.6671 {'scale__n_quantiles': 611, 'model__n_estimators': 680, 'model__min_samples_split': 11, 'model__min_samples_leaf': 1, 'model__max_features': 202, 'model__max_depth': 698}
+
+Wed Jul 17 13:27:43 2024 - model_carbon0.6971 {'scale__n_quantiles': 14, 'model__n_estimators': 643, 'model__min_samples_split': 3, 'model__min_samples_leaf': 15, 'model__max_features': 897, 'model__max_depth': 1272}
+
+Thu Jul 18 17:01:59 2024 - model_carbon0.6497 {'scale__n_quantiles': 644, 'model__n_estimators': 721, 'model__min_samples_split': 82, 'model__min_samples_leaf': 32, 'model__max_features': 105, 'model__max_depth': 1592}
+
+Wed Jul 24 12:58:30 2024 - model_carbon0.6908 {'model__n_estimators': 751, 'model__min_samples_split': 26, 'model__min_samples_leaf': 5, 'model__max_features': 389, 'model__max_depth': 1961}
+
+Wed Jul 24 16:44:55 2024 - model_carbon0.687 {'scale__output_distribution': 'uniform', 'scale__n_quantiles': 100, 'scale__copy': True, 'model__n_estimators': 667, 'model__min_samples_split': 46, 'model__min_samples_leaf': 18, 'model__max_features': 46, 'model__max_depth': 1330}
+
+Wed Jul 24 17:00:39 2024 - model_carbon0.6456 {'scale__with_scaling': False, 'scale__with_centering': True, 'scale__unit_variance': False, 'scale__quantile_range': (10, 77), 'scale__copy': True, 'model__n_estimators': 409, 'model__min_samples_split': 34, 'model__min_samples_leaf': 6, 'model__max_features': 269, 'model__max_depth': 983}
+
+Wed Jul 24 17:53:56 2024 - model_carbon0.655 {'scale__with_scaling': False, 'scale__with_centering': False, 'scale__unit_variance': True, 'scale__quantile_range': (10, 80), 'scale__copy': True, 'model__n_estimators': 876, 'model__min_samples_split': 78, 'model__min_samples_leaf': 2, 'model__max_features': 924, 'model__max_depth': 1381}
+
+Wed Jul 24 18:30:08 2024 - model_carbon0.6862 {'scale__with_scaling': False, 'scale__with_centering': True, 'scale__unit_variance': False, 'scale__quantile_range': (10, 55), 'scale__copy': True, 'model__n_estimators': 332, 'model__min_samples_split': 21, 'model__min_samples_leaf': 17, 'model__max_features': 472, 'model__max_depth': 666}
+
+Wed Jul 24 18:43:38 2024 - model_carbon0.6942 {'scale__with_scaling': True, 'scale__with_centering': False, 'scale__unit_variance': False, 'scale__quantile_range': (10, 75), 'scale__copy': True, 'model__n_estimators': 818, 'model__min_samples_split': 50, 'model__min_samples_leaf': 5, 'model__max_features': 648, 'model__max_depth': 1835}
+
+Wed Jul 24 19:10:45 2024 - model_carbon0.6722 {'scale__with_scaling': False, 'scale__with_centering': True, 'scale__unit_variance': False, 'scale__quantile_range': (10, 23), 'scale__copy': False, 'model__n_estimators': 707, 'model__min_samples_split': 54, 'model__min_samples_leaf': 18, 'model__max_features': 725, 'model__max_depth': 1470}
+
+Wed Jul 24 19:15:08 2024 - model_carbon0.6587 {'scale__with_scaling': True, 'scale__with_centering': True, 'scale__unit_variance': False, 'scale__quantile_range': (10, 36), 'scale__copy': False, 'model__n_estimators': 545, 'model__min_samples_split': 5, 'model__min_samples_leaf': 15, 'model__max_features': 305, 'model__max_depth': 64}
+
+Wed Jul 24 19:20:07 2024 - model_carbon0.7148 {'scale__with_scaling': False, 'scale__with_centering': False, 'scale__unit_variance': True, 'scale__quantile_range': (10, 66), 'scale__copy': False, 'model__n_estimators': 881, 'model__min_samples_split': 13, 'model__min_samples_leaf': 5, 'model__max_features': 189, 'model__max_depth': 1269}
+
+Thu Jul 25 09:25:46 2024 - model_carbon0.6449 {'scale__with_scaling': True, 'scale__with_centering': True, 'scale__unit_variance': False, 'scale__quantile_range': (10, 86), 'scale__copy': False, 'model__n_estimators': 791, 'model__min_samples_split': 35, 'model__min_samples_leaf': 18, 'model__max_features': 470, 'model__max_depth': 1971}
+
+Thu Jul 25 09:32:43 2024 - model_carbon0.6656 {'scale__output_distribution': 'uniform', 'scale__n_quantiles': 375, 'scale__copy': True, 'model__n_estimators': 307, 'model__min_samples_split': 41, 'model__min_samples_leaf': 2, 'model__max_features': 907, 'model__max_depth': 111}
+
+Thu Jul 25 09:46:01 2024 - model_carbon0.6811 {'scale__output_distribution': 'normal', 'scale__n_quantiles': 351, 'scale__copy': False, 'model__n_estimators': 746, 'model__min_samples_split': 27, 'model__min_samples_leaf': 2, 'model__max_features': 585, 'model__max_depth': 1711}
+
+Thu Jul 25 10:00:26 2024 - model_carbon0.6631 {'scale__output_distribution': 'uniform', 'scale__n_quantiles': 841, 'scale__copy': False, 'model__n_estimators': 908, 'model__min_samples_split': 45, 'model__min_samples_leaf': 2, 'model__max_features': 974, 'model__max_depth': 925}
+
+Thu Jul 25 10:04:40 2024 - model_carbon0.6855 {'scale__output_distribution': 'uniform', 'scale__n_quantiles': 654, 'scale__copy': False, 'model__n_estimators': 652, 'model__min_samples_split': 60, 'model__min_samples_leaf': 28, 'model__max_features': 969, 'model__max_depth': 253}
+
+Thu Jul 25 10:24:28 2024 - model_carbon0.6517 {'scale__n_quantiles': 225, 'scale__copy': False, 'model__n_estimators': 469, 'model__min_samples_split': 2, 'model__min_samples_leaf': 9, 'model__max_features': 429, 'model__max_depth': 1204}
+
+Thu Jul 25 10:30:16 2024 - model_carbon0.7084 {'scale__output_distribution': 'normal', 'scale__n_quantiles': 1000, 'scale__copy': False, 'model__n_estimators': 299, 'model__min_samples_split': 9, 'model__min_samples_leaf': 5, 'model__max_features': 486, 'model__max_depth': 305}
+
+Thu Jul 25 10:37:19 2024 - model_carbon0.6488 {'scale__output_distribution': 'normal', 'scale__n_quantiles': 1000, 'scale__copy': False, 'model__n_estimators': 391, 'model__min_samples_split': 8, 'model__min_samples_leaf': 6, 'model__max_features': 105, 'model__max_depth': 673}
+
+Thu Jul 25 10:51:31 2024 - model_carbon0.6545 {'scale__n_quantiles': 1000, 'model__n_estimators': 338, 'model__min_samples_split': 53, 'model__min_samples_leaf': 34, 'model__max_features': 46, 'model__max_depth': 460}
+
+Thu Jul 25 15:58:40 2024 - model_carbon0.6694 {'scale__n_quantiles': 1000, 'model__n_estimators': 290, 'model__min_samples_split': 35, 'model__min_samples_leaf': 14, 'model__max_features': 553, 'model__max_depth': 312}
+
